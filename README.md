@@ -13,24 +13,24 @@ Average Sales Amount per order: 64.75K.
 3.Total Number of Orders: 16.
 
 4. Marketing Expenditure and Sales Amount by Month (for Sales Teams)
-The Column Line chart chart:
+The graph shows marketing expenditure by Team A and Team B.
 May and June: relatively low marketing expenditure with steady but moderate sales.
-July: Significant increase in marketing spend corresponds with a large rise in sales.
-Team A and Team B: Both teams show that marketing expenditure rose, and sales also increased significantly in July.
+July saw the highest marketing expenditure and sales for both teams, indicating a strong correlation between marketing spend and sales performance.
 
-5. Total Marketing Expenditure by Region
-The waterfall chart for "Total Marketing Expenditure by Region" shows:
-The West region had the lowest marketing expenditure.
-North region had the highest marketing expenditure.
-Total expenditure grew steadily across the regions, with no major decreases (highlighted by the green bars for all regions).
+5.Marketing Expenditure by Region:
+The West region has the highest marketing expenditure, followed by the East, South, and North.
+Despite the highest marketing spend in the West, it seems that the sales performance in the West doesn't correspond to the marketing investment, as it shows lower sales amounts compared to other regions.
 
 6. Sales Amount by Month and Region
 The Ribbon Chart shows:
-East region started strong but other regions (e.g., North and West) caught up, especially in July.
-South region remained stable, but North and West saw a noticeable increase in sales toward July.
+The North and South regions contribute the most in terms of sales revenue, despite not having the highest marketing spend.
+The West region, despite high marketing investment, shows lower sales compared to North and South, indicating a need to assess the effectiveness of marketing strategies in that area.
 
-Key Insights:
-July had the highest sales and marketing expenditure, indicating that increased marketing spend correlates with higher sales.
-North region performed the best in terms of marketing spending and sales in the last month, while the West region spent the least on marketing.
-Team A and Team B both saw increases in sales in July, suggesting the marketing efforts had a strong positive impact.
-These insights suggest that increased marketing spending positively impacted sales performance across different teams and regions, especially in July.
+Final Insights:
+West region marketing strategy might need optimization:
+Despite heavy marketing investment, sales performance in the West lags behind. This indicates either a mismatch between marketing efforts and target audience or less effective strategies.
+North and South regions show better marketing ROI: 
+These regions are generating higher sales with less marketing expenditure, indicating a more efficient use of marketing resources.
+Focus on July: 
+The spike in both marketing spend and sales in July shows that the investment in marketing can pay off if strategies are well-targeted.
+Re-evaluating marketing strategies in the West region could potentially increase sales, and the company might also consider boosting investment in the more responsive North and South regions for better overall performance.
