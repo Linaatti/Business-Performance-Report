@@ -4,12 +4,14 @@
 
 1. Total Marketing Expenditure
 126K was spent on marketing over the time period.
+   
 Monthly breakdown:
+
 May: 27,000
 June: 30,500
 July: 68,200 (largest marketing expenditure).
 
-2. Total Sales and Orders
+3. Total Sales and Orders
 Total Sales Amount: 1.04M.
 Average Sales Amount per order: 64.75K.
 
@@ -35,9 +37,14 @@ The West region, despite high marketing investment, shows lower sales compared t
 Final Insights:
 
 West region marketing strategy might need optimization:
+
 Despite heavy marketing investment, sales performance in the West lags behind. This indicates either a mismatch between marketing efforts and target audience or less effective strategies.
+
 North and South regions show better marketing ROI: 
+
 These regions are generating higher sales with less marketing expenditure, indicating a more efficient use of marketing resources.
+
 Focus on July: 
+
 The spike in both marketing spend and sales in July shows that the investment in marketing can pay off if strategies are well-targeted.
 Re-evaluating marketing strategies in the West region could potentially increase sales, and the company might also consider boosting investment in the more responsive North and South regions for better overall performance.
