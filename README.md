@@ -12,19 +12,23 @@ July: 68,200 (largest marketing expenditure).
 2. Total Sales and Orders
 Total Sales Amount: 1.04M.
 Average Sales Amount per order: 64.75K.
+
 3.Total Number of Orders: 16.
 
 4. Marketing Expenditure and Sales Amount by Month (for Sales Teams)
 The graph shows marketing expenditure by Team A and Team B.
+
 May and June: relatively low marketing expenditure with steady but moderate sales.
 July saw the highest marketing expenditure and sales for both teams, indicating a strong correlation between marketing spend and sales performance.
 
 5.Marketing Expenditure by Region:
 The West region has the highest marketing expenditure, followed by the East, South, and North.
+
 Despite the highest marketing spend in the West, it seems that the sales performance in the West doesn't correspond to the marketing investment, as it shows lower sales amounts compared to other regions.
 
 6. Sales Amount by Month and Region
 The Ribbon Chart shows:
+
 The North and South regions contribute the most in terms of sales revenue, despite not having the highest marketing spend.
 The West region, despite high marketing investment, shows lower sales compared to North and South, indicating a need to assess the effectiveness of marketing strategies in that area.
 
