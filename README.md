@@ -29,6 +29,7 @@ The North and South regions contribute the most in terms of sales revenue, despi
 The West region, despite high marketing investment, shows lower sales compared to North and South, indicating a need to assess the effectiveness of marketing strategies in that area.
 
 Final Insights:
+
 West region marketing strategy might need optimization:
 Despite heavy marketing investment, sales performance in the West lags behind. This indicates either a mismatch between marketing efforts and target audience or less effective strategies.
 North and South regions show better marketing ROI: 
