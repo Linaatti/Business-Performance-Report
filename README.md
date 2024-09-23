@@ -1,5 +1,7 @@
 # Business-Performance-Report
 
+![Business Performance](https://github.com/user-attachments/assets/a72e5006-0450-42a0-a878-ddb55f7ae366)
+
 1. Total Marketing Expenditure
 126K was spent on marketing over the time period.
 Monthly breakdown:
